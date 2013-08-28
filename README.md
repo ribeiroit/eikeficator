@@ -6,9 +6,9 @@ Naming generator for Eike Batista's companies. Now you can have a very important
 install
 -------
 
-git clone git@github.com:ribeiroit/eikeficator.git
-cd eikeficator
-chmod u+x gen.py
-./gen.py
+	git clone git@github.com:ribeiroit/eikeficator.git
+	cd eikeficator
+	chmod u+x gen.py
+	./gen.py
 
 
