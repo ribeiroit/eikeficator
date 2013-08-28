@@ -8,7 +8,7 @@ install
 
 	git clone git@github.com:ribeiroit/eikeficator.git
 	cd eikeficator
-	chmod u+x gen.py
-	./gen.py
+	chmod u+x python-gen.py
+	./python-gen.py
 
 
